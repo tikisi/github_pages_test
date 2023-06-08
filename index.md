@@ -17,6 +17,7 @@ int main() {
 ```
 
 ## Math
+
 $$
 y = \sum_{i=1}^n n^2
 $$
